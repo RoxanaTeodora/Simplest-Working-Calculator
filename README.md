@@ -174,5 +174,4 @@ function App() {
 export default App;
 ```
 
-Your goal is to use this starting code and extend it with missing pieces to make the app behave as expected: a fully working simple calculator app.
-fvszvzsvzsv
+
